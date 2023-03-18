@@ -1,0 +1,10 @@
+for (initilization, condition, Declaration)
+then
+echo
+done
+
+IF [Condition]
+command
+else
+command
+fi
